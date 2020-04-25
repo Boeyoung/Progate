@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Progate</title>
+    <link rel="stylesheet" href="stylesheet.css">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  </head>
+  <body>
+     <div class="top-wrapper">
+      <div class="container">
+        <h2>PROYEK TIM HTML & CSS DTS Programming 2020 </h2>
+        <h2> KELAS-PRO-D Kelompok D33</h2>
+        <h3>Silahkan Di liat-liat kakak, Siapa Tau Jodoh Iya kan..</h3>
+        <div class="btn-wrapper">
+          <a href="#" class="btn facebook"><span class="fa fa-facebook"></span>Facebook</a>
+          <a href="#" class="btn twitter"><span class="fa fa-twitter"></span>Instagram</a>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
