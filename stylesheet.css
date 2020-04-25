@@ -34,7 +34,7 @@ a {
 }
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(https://pixabay.com/get/54e8dc474c50ad14f6d1867dda35367b1d38d6e756567649_1920.jpg);
+  background-image: url(https://raw.githubusercontent.com/Boeyoung/Progate/master/geeks-2894621_1920.jpg);
   background-size: cover;
   color: white;
   text-align: center;
@@ -61,16 +61,13 @@ a {
   margin: 10px 0;
 }
 
-.signup {
-  background-color: #239b76;
-}
 
 .facebook {
   background-color: #3b5998;
   margin-right: 10px;
 }
 
-.twitter {
+.Instagram {
   background-color: 	#FF007F;
 }
 
