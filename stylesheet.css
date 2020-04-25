@@ -1,0 +1,85 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Lucida Grande";
+}
+
+a {
+  text-decoration: none;
+}
+
+.clear {
+  clear: left;
+}
+.container {
+  max-width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+  width: 100%;
+  white-space:nowrap;
+  overflow:hidden;
+  -webkit-animation: typing 5s steps(70, end);
+  animation: animasi-ketik 5s steps(70, end);
+}
+
+@keyframes animasi-ketik{
+  from { width: 0; }
+}
+
+@-webkit-keyframes animasi-ketik{
+  from { width: 0; }
+}
+.top-wrapper {
+  padding: 180px 0 100px 0;
+  background-image: url(https://raw.githubusercontent.com/Boeyoung/Progate/master/geeks-2894621_1920.jpg);
+  background-size: cover;
+  color: white;
+  text-align: center;
+}
+
+.top-wrapper h2 {
+  font-family: "Comic Sans MS";
+  font-size: 40px;
+  margin-bottom: 10px;
+}
+
+.top-wrapper h3 {
+  font-family: Garamond;
+  margin-bottom: 3px;
+  font-family: "Courier New";
+}
+
+.btn-wrapper {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.btn-wrapper p {
+  margin: 10px 0;
+}
+
+
+.facebook {
+  background-color: #3b5998;
+  margin-right: 10px;
+}
+
+.Instagram {
+  background-color: 	#FF007F;
+}
+
+.btn {
+  padding: 12px 24px;
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.btn:hover {
+  opacity: 1;
+}
